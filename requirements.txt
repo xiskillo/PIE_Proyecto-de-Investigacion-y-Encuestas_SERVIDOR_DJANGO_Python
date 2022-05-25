@@ -27,7 +27,7 @@ Pillow==6.0.0
 py-vapid==1.5.0
 pycparser==2.19
 Pygments==2.4.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.2.2
 pytz==2019.1
 pywebpush==1.9.4
